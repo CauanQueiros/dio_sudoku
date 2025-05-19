@@ -1,3 +1,5 @@
+package Exerc1;
+
 import java.util.Scanner;
 
 public class Contador {
